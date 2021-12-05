@@ -1,0 +1,9 @@
+# Project exclude paths
+/springcloud_06category/target/
+/springcloud_07product/target/
+/springcloud_08hystrix/target/
+/springcloud_09openfeign_hystrix/target/
+/springcloud_10hystrix_dashboard/target/
+/springcloud_11gateway/target/
+/springcloud_12configserver/target/
+/springcloud_13configclient/target/
